@@ -26,7 +26,8 @@ O objetivo do sistema é **organizar e automatizar o processo de reservas**, gar
 - **Frontend:** JavaScript / React  
 - **Backend:** Java  
 - **Banco de Dados:** MySQL  
-- **Arquitetura:** API REST  
+- **Arquitetura:** API REST
+- **Desenvolvimento de diagramas:** Lucidchart e Miro
 
 ---
 
